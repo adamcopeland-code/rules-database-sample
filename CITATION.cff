@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this database, please cite it as below."
+type: dataset
+title: "PIERCE: Parsed Index of Editions, Rules, and Codified Evolution in Sport"
+date-released: 2026-07-16
+url: "https://adamcopeland.co/rules"
+authors:
+  - family-names: Copeland
+    given-names: "Adam A."
+    orcid: "https://orcid.org/0000-0002-8778-3938"
+    website: "https://adamcopeland.co"
+abstract: >-
+  A multi-sport corpus of official sport rulebooks decomposed to the
+  provision level, with provenance to canonical source documents.
+keywords:
+  - sport rules
+  - rule change
+  - sport management
+  - text corpus
+  - sport governance
+references:
+  - type: article
+    authors:
+      - family-names: Copeland
+        given-names: "Adam A."
+      - family-names: Babiak
+        given-names: Kathy
+    title: "From Play to Policy: Examining Rule Modifications in Sport Through Organizational Learning and Performance Feedback Lenses"
+    journal: "Journal of Sport Management"
+    year: 2026
+    volume: 40
+    issue: 1
+    start: 17
+    end: 29
+    doi: "10.1123/jsm.2024-0370"
