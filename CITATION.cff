@@ -2,7 +2,8 @@ cff-version: 1.2.0
 message: "If you use this database, please cite it as below."
 type: dataset
 title: "PIERCE: Parsed Index of Editions, Rules, and Codified Evolution in Sport"
-date-released: 2026-07-16
+version: "2026.07"
+date-released: 2026-07-23
 url: "https://adamcopeland.co/rules"
 authors:
   - family-names: Copeland
